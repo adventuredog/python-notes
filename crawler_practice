@@ -1,1 +1,6 @@
-
+撰寫網路爬蟲步驟解析
+第一步: 載入模組
+import pandas as pd
+import mplfinance as mpf
+import matplotlib.pyplot as plt
+import os
